@@ -108,7 +108,8 @@ function App() {
             marginLeft: "20px",
           }}
           onClick={() => {
-            window.location.href = "https://www.google.com";
+            window.location.href =
+              "https://github.com/namannangia/wariCrewAssignment";
           }}
         >
           Source Code
